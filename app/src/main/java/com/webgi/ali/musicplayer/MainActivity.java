@@ -135,5 +135,5 @@ public class MainActivity extends AppCompatActivity {
             mediaPlayer = null; // خالی کردن متغیر حهت اطمینان از نشت حافظه
         }
     }
-//    ended
+//    ende
 }
